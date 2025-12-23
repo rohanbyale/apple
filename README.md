@@ -4,7 +4,7 @@ A cinematic Apple-style MacBook Pro product experience built using React Three F
 The project recreates a premium hardware reveal with smooth scroll-based animations, realistic lighting, and immersive 3D visuals — inspired by Apple’s official product pages.
 
 ✨ Features </br>
-🎥 Scroll-based 3D animation</br>
+🎥 Scroll-based 3D animation
 MacBook lid smoothly opens & closes based on scroll position
 
 🌍 Physically realistic lighting</br>
