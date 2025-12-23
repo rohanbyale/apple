@@ -18,3 +18,14 @@ Clean separation of UI, Canvas, and 3D logic
 
 ⚡ Smooth interpolation </br>
 Frame-based animation using useFrame + MathUtils.lerp
+
+
+| Technology             | Usage                                              |
+| ---------------------- | -------------------------------------------------- |
+| **React**              | UI & component architecture                        |
+| **@react-three/fiber** | React renderer for Three.js                        |
+| **@react-three/drei**  | Helpers (ScrollControls, Environment, GLTF loader) |
+| **Three.js**           | 3D rendering & math utilities                      |
+| **Tailwind CSS**       | Typography & layout styling                        |
+| **HDRI (EXR)**         | Studio-grade lighting                              |
+
